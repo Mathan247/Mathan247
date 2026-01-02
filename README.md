@@ -9,9 +9,9 @@ I'm an aspiring Data Analyst passionate about finding insights and building data
 - **Python** (Pandas, Visualization)
 
 ### 📊 Data Analytics Projects
-- Sales Dashboard in Excel  
-- HR Analytics using Power BI  
-- More projects coming soon…
+- Sales Performance Dashboard  
+- Blinkit Sales Analysis
+- Marketing Campaign Analysis
 
 ### 🎯 Career Goal
 To become a professional Data Analyst and solve business problems with data.
