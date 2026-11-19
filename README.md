@@ -16,4 +16,4 @@ I'm an aspiring Data Analyst passionate about finding insights and building data
 ### 🎯 Career Goal
 To become a professional Data Analyst and solve business problems with data.
 
-📫 **Reach me:** mathandata247@gmail.com
+📫 **Reach me:** mathan240903@gmail.com
